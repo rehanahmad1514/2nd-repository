@@ -1,4 +1,4 @@
 # 2nd-repository
 this is my repository
 <br>
-author - rehan ahamd
+author - rehan ahamd khan
